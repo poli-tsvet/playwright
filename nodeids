@@ -1,0 +1,8 @@
+[
+  "test_example.py::test_get_started_link[chromium]",
+  "test_example.py::test_has_title[chromium]",
+  "test_example1.py::test_get_started_link[chromium]",
+  "test_example1.py::test_has_title[chromium]",
+  "test_example1.py::test_main_navigation[chromium]",
+  "test_example2.py::test_main_navigation[chromium]"
+]
